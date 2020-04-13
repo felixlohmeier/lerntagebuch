@@ -1,7 +1,7 @@
 ---
-title: Blogging Like a Hacker
+title: Lerntagebuch
 ---
 
-## Welcome to my blog
+## Willkommen zu meinem Lerntagebuch
 
-I'm glad you are here. I plan to talk about **Bibliotheks- und Archivinformatik**
+Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
