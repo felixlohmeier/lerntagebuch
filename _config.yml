@@ -1,7 +1,7 @@
 title: Blog Bibliotheks- und Archivinformatik
 author: Felix
 email: felix.lohmeier@fhgr.ch
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines
   Vorlage für ein Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
 
 # social links
