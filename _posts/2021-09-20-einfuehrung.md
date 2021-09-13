@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2020-03-20
+date: 2021-09-20
 ---
 
 Ich erwarte von diesem Kurs ...
