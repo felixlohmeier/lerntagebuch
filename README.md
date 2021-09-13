@@ -7,8 +7,8 @@ Diese Vorlage kann verwendet werden, um ein Blog mit GitHub Pages für den Kurs 
     * Name und Beschreibung ausfüllen.
     * Für die Nutzung von GitHub-Pages muss das Repository öffentlich (public) sein.
 3. Die Einstellungen (Settings) des neuen Repositorys aufrufen
-    * Weiter unten auf der Seite unter der Überschrift "GitHub Pages" im Pulldown-Menü "Source" die Einstellung `master branch` auswählen.
-    * Die Seite mit den Einstellungen lädt neu. An der gleichen Stelle (Überschrift "GitHub Pages") erscheint jetzt die Internetadresse: "Your site is ready to be published at http://...".
+    * Im Menüpunkt "Pages" im Pulldown-Menü "Source" den branch `master` auswählen und Save-Button drücken
+    * Die Seite lädt neu. Es erscheint jetzt die Meldung mit der Internetadresse des Blogs: "Your site is ready to be published at http://...".
     * Das Lerntagebuch ist jetzt bereits online. GitHub generiert nach jeder Änderung im Repository innerhalb von Sekunden neue HTML-Seiten, die unter der Adresse ...github.io... automatisch veröffentlicht werden.
 4. Metadaten in Datei `_config.yml` anpassen:
     * Ändern Sie Titel, Autor/in, Beschreibung.
